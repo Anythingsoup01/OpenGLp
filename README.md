@@ -1,2 +1,2 @@
 # OpenGLp
-Practice
+Practicing my OpenGL
